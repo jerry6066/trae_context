@@ -1,5 +1,5 @@
 function greet(name) {
-  return `Hello, ${name}! Welcome to the workspace.`;
+  return `你好, ${name}! 欢迎来到工作区。`;
 }
 
 function add(a, b) {
